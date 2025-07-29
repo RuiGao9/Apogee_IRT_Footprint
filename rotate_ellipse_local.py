@@ -1,6 +1,7 @@
 def rotate_ellipse_local(ellipse_points, center_point, angle_deg):
     """
     Rotate the ellipse around a center point (the IRT sensor location) in the Cartesian coordinate system.
+    Based on the user defined horizontal angle (variable "beta_irt_horizontal" in the main program), rotate all points on the ellipse based on the center point of the Cartesian coordinate system.
 
     Parameters:
     - ellipse_points: Nx2 array of (x, y) coordinates

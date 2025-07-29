@@ -1,5 +1,6 @@
 def transform_ellipse_to_north(ellipse_points):
     """
+    Rotate all points on the ellipse 90 degree Anticlockwise based on the center point of the Cartesian coordinate system.
     Apply transformation to each point in the ellipse:
     - If y < 0: (|y|, x)
     - If y == 0: (x, 0)

@@ -1,6 +1,7 @@
 def tiff_to_shapefile(tiff_path, shapefile_path=None, target_value=1):
     """
     Converts a GeoTIFF raster to a shapefile by extracting pixels equal to target_value.
+    Easy for some feature extraction work via ArcGIS Pro (or QGIS).
     
     Parameters:
         tiff_path (str): Input TIFF file path.
@@ -34,7 +35,6 @@ def tiff_to_shapefile(tiff_path, shapefile_path=None, target_value=1):
         'geometry': 'Polygon',
         'properties': {'value': 'int'}
     }
-
     with fiona.open(shapefile_path, 'w', driver='ESRI Shapefile',
                     crs=crs.to_dict(), schema=schema) as shp:
         for geom, val in polygons:
@@ -42,6 +42,6 @@ def tiff_to_shapefile(tiff_path, shapefile_path=None, target_value=1):
                 'geometry': mapping(shape(geom)),
                 'properties': {'value': int(val)}
             })
-
     print(f"Shapefile saved to: {shapefile_path}")
+    
     return shapefile_path
