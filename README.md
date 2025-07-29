@@ -2,6 +2,6 @@
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.IRT-FP)
 [![Google Scholar Badge](https://img.shields.io/badge/GoogleScholar-blue)](https://scholar.google.com/citations?hl=en&user=dR_SQZkAAAAJ)
 
-# IRT-FP
+# Apogee_IRT_Footprint
 ## A Python Tool for Apogee IRT Sensor Footprint Generation and Georeferencing
-Generating footprint based on Apogee IRT sensor at the field.
+**Abstract:** This repository provides a Python-based toolkit for modeling and visualizing the ground footprint of downward- or angled-facing Infrared RadiomeTer (IRT) in geospatial coordinates. The tool computes the elliptical (or cycle) footprint projected by an IRT sensor based on installation height, field-of-view (FOV), and view angle. It supports rotation to align the ellipse with the direction of observation (e.g., wind direction or sensor azimuth), and georeferences the output using a user-defined WGS84 coordinate. The final footprint can be exported as a GeoTIFF raster with user-defined resolution, where pixels inside the ellipse are assigned a value of 1, and those outside are 0. This is useful for spatial modeling, footprint-based data analysis, and remote sensing validation studies. All computations are done in the Cartesian coordinate system, projected into UTM, and visualized using standard Python libraries. This tool facilitates reproducible and accurate IRT footprint mapping across field studies, and can be extended for use in micrometeorological applications, surface energy balance models, or UAV-based thermal remote sensing in both agricultural and ecosystem research.
