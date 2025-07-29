@@ -3,7 +3,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/GoogleScholar-blue)](https://scholar.google.com/citations?hl=en&user=dR_SQZkAAAAJ)
 
 # Apogee_IRT_Footprint
-(Repository title)
+The above is the repository title
 ## Title: A Python Tool for Apogee IRT Sensor Footprint Generation and Georeferencing
 <p align="center">Rui Gao<sup>1,2</sup>, Mohammad Safeeq<sup>1,2</sup>, Joshua H. Viers<sup>1,2</sup></p>
 <sup>1</sup>Department of Civil and Environmental Engineering, University of California Merced, Merced, CA 95343, USA<br>
