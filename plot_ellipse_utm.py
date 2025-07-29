@@ -1,4 +1,4 @@
-def plot_ellipse_utm(ellipse_points, title="IRT Footprint (UTM)"):
+def plot_ellipse_utm(ellipse_points, title="Final IRT Footprint (UTM)"):
     '''
     Display the final footprint.
     '''

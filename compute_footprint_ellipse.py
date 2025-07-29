@@ -1,6 +1,7 @@
 def compute_footprint_ellipse(h, alpha_deg, fov_half_deg=14):
     """
     Returns:
+    Letters can refer to our manual.
     - OC: The length from the ellipse/cycle to the projected IRT sensor position
     - BE: The length from the beam center to the ellipse on the y-axis
     - OB: The length form the beam center to the projected IRT sensor position

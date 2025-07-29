@@ -16,7 +16,7 @@ def plot_ellipse(ellipse_points, center_beam, center_x):
     plt.gca().set_aspect('equal')
     plt.xlabel("X (meters)")
     plt.ylabel("Y (meters)")
-    plt.title("Infrared Sensor Ground Footprint (Projected Ellipse)")
+    plt.title("IRT Footprint (Middle Products)")
     plt.grid(True)
     plt.legend()
     plt.show()
