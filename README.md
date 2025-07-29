@@ -21,7 +21,7 @@ If you use this repository in your work, please cite it using the following DOI:
 **BibTeX:**
 ```bibtex
 @misc{gao2025apogee,
-  author       = {Rui Gao and Mohammad Safeeq and Joshua H. Viers},
+  author       = {Rui Gao, Mohammad Safeeq, and Joshua H. Viers},
   title        = {A Python Tool for Apogee IRT Sensor Footprint Generation and Georeferencing – Apogee_IRT_Footprint},
   year         = {2025},
   publisher    = {Zenodo},
