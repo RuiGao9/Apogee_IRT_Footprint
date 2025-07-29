@@ -22,13 +22,13 @@ If you use this repository in your work, please cite it using the following DOI:
 ```bibtex
 @misc{gao2025apogee,
   author       = {Rui Gao and Mohammad Safeeq and Joshua H. Viers},
-  title        = {Apogee IRT Footprint Estimation Tool},
+  title        = {A Python Tool for Apogee IRT Sensor Footprint Generation and Georeferencing – Apogee_IRT_Footprint},
   year         = {2025},
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.16581912},
   url          = {https://doi.org/10.5281/zenodo.16581912}
 }
-
+```
 ## Repository update information:
 - **Creation date:** 2025-07-11
 - **Last update:** 2025-07-29
