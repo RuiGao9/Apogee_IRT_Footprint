@@ -12,3 +12,12 @@
 This repository is designed to generate footprint estimates for Apogee IRT sensors with circular fields of view. Upon completion, the program outputs the results in both GeoTIFF and Shapefile formats.
 - Apogee_IRT_Footprint.pdf – This document provides a detailed explanation of the footprint calculation method and associated parameters.
 - main.ipynb – This Jupyter Notebook allows users to modify input parameters as needed. It also includes explanations of the input variables and their meanings.
+
+## Repository update information:
+- **Creation date:** 2025-07-11
+- **Last update:** 2025-07-29
+
+## Contact information if issues were found:
+Rui Gao<br>
+Rui.Ray.Gao@gmail.com<br>
+RuiGao@UCMerced.edu
