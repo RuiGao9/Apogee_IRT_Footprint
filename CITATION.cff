@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository/software, please cite it using the metadata below."
+title: "A Python Tool for Apogee IRT Sensor Footprint Generation and Georeferencing - Apogee_IRT_Footprint"
+version: "v1.0.0"
+doi: "10.5281/zenodo.16581912"
+date-released: 2025-07-29
+authors:
+  - family-names: Gao
+    given-names: Rui
+    orcid: https://orcid.org/0000-0002-6127-0843
+  - family-names: Safeeq
+    given-names: Mohammad
+    orcid: https://orcid.org/0000-0003-0529-3925
+  - family-names: Viers
+    given-names: Joshua H.
+    orcid: https://orcid.org/0000-0001-7957-7942
