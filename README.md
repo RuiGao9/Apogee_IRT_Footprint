@@ -5,8 +5,8 @@
 The above is the repository title, and the following is the title intended for citation and referencing purposes.
 ## A Python Tool for Apogee IRT Sensor Footprint Generation and Georeferencing - Apogee_IRT_Footprint
 <p align="center">Rui Gao<sup>1,2</sup>, Mohammad Safeeq<sup>1,2</sup>, Joshua H. Viers<sup>1,2</sup></p>
-<sup>1</sup>Department of Civil and Environmental Engineering, University of California Merced, Merced, CA 95343, USA<br>
-<sup>2</sup>Valley Institute for Sustainable Technology & Agriculture, University of California Merced, Merced, CA 95343, USA<br>
+<sup>1</sup>Department of Civil and Environmental Engineering, University of California, Merced, CA 95343, USA<br>
+<sup>2</sup>Valley Institute for Sustainable Technology & Agriculture, University of California, Merced, CA 95343, USA<br>
 
 ## Brief introduction of this repository
 This repository is designed to generate footprint estimates for Apogee IRT sensors with circular fields of view. Upon completion, the program outputs the results in both GeoTIFF and Shapefile formats.
