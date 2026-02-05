@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1018733015.svg)](https://doi.org/10.5281/zenodo.15871683)
+[![DOI]([https://zenodo.org/badge/DOI/10.5281/zenodo.18733015.svg)](https://doi.org/10.5281/zenodo.15871683)
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.IRT-FP)
 
 # Apogee_IRT_Footprint
